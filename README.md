@@ -1,5 +1,8 @@
 # tableau-shape-extract
 
+Under the hood tableau workbooks are XML so `beautifulsoup4` can 
+be used to extract shapes. [Inspiration](https://www.clearlyandsimply.com/clearly_and_simply/2014/05/extract-custom-shapes-from-a-tableau-workbook.html)
+
 ## Setup
 
 ```shell
